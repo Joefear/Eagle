@@ -12,7 +12,20 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# This file is modified from https://huggingface.co/spaces/shi-labs/CuMo-7b-zero/blob/main/app.py
+# SPDX-License-Identifier: Apache-2.0
+#
+# Portions of this file are derived from the CuMo demo space
+# (https://huggingface.co/spaces/shi-labs/CuMo-7b-zero), licensed under
+# the Apache License, Version 2.0.
+#
+# Modifications © 2024 NVIDIA CORPORATION & AFFILIATES, licensed under
+# the Apache License, Version 2.0.
+#
+# --------------------------------------------------------
+# CuMo
+# Copyright (c) 2024 SHI Labs
+# Licensed under the Apache License, Version 2.0
+# --------------------------------------------------------
 
 import gradio as gr
 import os

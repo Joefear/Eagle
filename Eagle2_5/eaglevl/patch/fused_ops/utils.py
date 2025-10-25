@@ -1,3 +1,17 @@
+# This file is adopted from the following open-source projects:
+#   - Unsloth (https://github.com/unslothai/unsloth), licensed under the Apache License, Version 2.0.
+#   - Liger-Kernel (https://github.com/linkedin/Liger-Kernel), licensed under the BSD 2-Clause License.
+#
+# --------------------------------------------------------
+# Unsloth
+# Copyright (c) 2023–present Daniel Han-Chen & The Unsloth team
+# Licensed under the Apache License, Version 2.0
+#
+# Liger-Kernel
+# Copyright (c) 2024 LinkedIn Corporation
+# Licensed under the BSD 2-Clause License
+# --------------------------------------------------------
+
 """
 This file incorporates code from Unsloth licensed under the Apache License, Version 2.0.
 See the original Unsloth repository at https://github.com/unslothai/unsloth.

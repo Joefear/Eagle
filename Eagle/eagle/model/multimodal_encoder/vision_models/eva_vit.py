@@ -11,8 +11,20 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-# This file is modified from https://github.com/baaivision/EVA
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+# Portions of this file are derived from the EVA project
+# (https://github.com/baaivision/EVA), licensed under the MIT License.
+#
+# Modifications © 2024 NVIDIA CORPORATION & AFFILIATES, licensed under
+# the Apache License, Version 2.0.
+#
+# --------------------------------------------------------
+# EVA
+# Copyright (c) 2022–2023 Beijing Academy of Artificial Intelligence (BAAI)
+# Licensed under the MIT License
+# --------------------------------------------------------
 
 
 import os

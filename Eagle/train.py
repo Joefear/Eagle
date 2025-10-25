@@ -12,7 +12,14 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# This file is modified from https://github.com/haotian-liu/LLaVA/
+# SPDX-License-Identifier: Apache-2.0
+#
+# Portions of this file are derived from the LLaVA project
+# (https://github.com/haotian-liu/LLaVA), licensed under the
+# Apache License, Version 2.0.
+#
+# Modifications © 2024 NVIDIA CORPORATION & AFFILIATES, licensed under
+# the Apache License, Version 2.0.
 
 # Adopted from https://github.com/lm-sys/FastChat. Below is the original copyright:
 # Adopted from tatsu-lab@stanford_alpaca. Below is the original copyright:

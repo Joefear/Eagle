@@ -1,3 +1,13 @@
+# This file is derived from the LLaVA-HR project
+# (https://github.com/luogen1996/LLaVA-HR), which is licensed under
+# the Apache License, Version 2.0.
+#
+# --------------------------------------------------------
+# LLaVA-HR
+# Copyright (c) 2024 Gen Luo
+# Licensed under the Apache License, Version 2.0
+# --------------------------------------------------------
+
 """Generate answers with GPT-3.5"""
 # Note: you need to be using OpenAI Python v0.27.0 for the code below to work
 import argparse

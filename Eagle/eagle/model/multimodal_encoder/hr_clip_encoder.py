@@ -13,8 +13,19 @@
 # limitations under the License.
 #
 # SPDX-License-Identifier: Apache-2.0
-# Mostly copy-paste from LLaVA-HR
-# https://github.com/luogen1996/LLaVA-HR
+#
+# Portions of this file are derived from the LLaVA-HR project
+# (https://github.com/luogen1996/LLaVA-HR), licensed under the
+# Apache License, Version 2.0.
+#
+# Modifications © 2024 NVIDIA CORPORATION & AFFILIATES, licensed under
+# the Apache License, Version 2.0.
+#
+# --------------------------------------------------------
+# LLaVA-HR
+# Copyright (c) 2024 Luogen
+# Licensed under the Apache License, Version 2.0
+# --------------------------------------------------------
 
 import torch
 import torch.nn as nn

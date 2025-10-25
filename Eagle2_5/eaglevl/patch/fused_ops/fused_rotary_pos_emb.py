@@ -1,3 +1,12 @@
+# This file is adopted from the Liger-Kernel project
+# (https://github.com/linkedin/Liger-Kernel), licensed under the BSD 2-Clause License.
+#
+# --------------------------------------------------------
+# Liger-Kernel
+# Copyright (c) 2024 LinkedIn Corporation
+# Licensed under the BSD 2-Clause License
+# --------------------------------------------------------
+
 import torch
 import torch.nn as nn
 import triton

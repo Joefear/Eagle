@@ -1,3 +1,13 @@
+# This file is derived from the LLaVA-HR project
+# (https://github.com/luogen1996/LLaVA-HR), which is licensed under
+# the Apache License, Version 2.0.
+#
+# --------------------------------------------------------
+# LLaVA-HR
+# Copyright (c) 2024 Gen Luo
+# Licensed under the Apache License, Version 2.0
+# --------------------------------------------------------
+
 import os
 import json
 import argparse

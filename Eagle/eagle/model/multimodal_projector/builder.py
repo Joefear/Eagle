@@ -1,3 +1,13 @@
+# This file is derived from the LLaVA project
+# (https://github.com/haotian-liu/LLaVA), which is licensed under
+# the Apache License, Version 2.0.
+#
+# --------------------------------------------------------
+# LLaVA
+# Copyright (c) 2023 Haotian Liu
+# Licensed under the Apache License, Version 2.0
+# --------------------------------------------------------
+
 import torch
 import torch.nn as nn
 import re
