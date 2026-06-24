@@ -18,7 +18,7 @@
 
 ## Updates
 - [2026/06] 🎉 LocateAnything is accepted to [ECCV 2026](https://eccv.ecva.net/).
-- [2026/06] 🔥 Release [visual prompt fine-tuning script](./Embodied/shell/locate-anything-lora-visual-prompt.sh) for LocateAnything, with LoRA fine-tuning for efficient adaptation.
+- [2026/06] 🔥 Release [visual prompt fine-tuning script](./Embodied/shell/locate-anything-lora-visual-prompt.sh) for LocateAnything with LoRA fine-tuning.
 - [2026/06] 🔥 LocateAnything now supports [batch inference](./Embodied/) with a pure FlashAttention runtime — efficient inference on A100, RTX 4090, and other non-Hopper/Blackwell GPUs.
 - [2026/05] 🔥 Release [LocateAnything](./Embodied/) — A generalist vision-language grounding model based on Eagle.
 - [2025/12] 🎉 A native resolution variant of the Eagle model is adopted as the VLM backbone of [GR00T-N1.6](https://huggingface.co/collections/nvidia/gr00t-n16). Check out the [tech blog](https://research.nvidia.com/labs/gear/gr00t-n1_6/) for more details.
@@ -191,10 +191,10 @@ detailed caption: The clip begins with a character with white hair and a beard, 
 ## Citation
 If you find this project useful, please consider citing our works:
 ```latex
-@article{wang2025locateanything,
+@inproceedings{wang2025locateanything,
     title={LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding},
     author={Shihao Wang and Shilong Liu and Yuanguo Kuang and Xinyu Wei and Yangzhou Liu and Zhiqi Li and Yunze Man and Guo Chen and Andrew Tao and Guilin Liu and Jan Kautz and Lei Zhang and Zhiding Yu},
-    journal={arXiv:2605.27365},
+    booktitle={ECCV},
     year={2026}
 }
 ```
@@ -203,8 +203,8 @@ If you find this project useful, please consider citing our works:
 @inproceedings{man2025locateanything3d,
     title   = {LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight},
     author  = {Yunze Man and Shihao Wang and Guowen Zhang and Johan Bjorck and Zhiqi Li and Liang-Yan Gui and Jim Fan and Jan Kautz and Yu-Xiong Wang and Zhiding Yu},
-    journal = {arXiv preprint arXiv:2511.20648},
-    year    = {2025},
+    booktitle = {CVPR},
+    year    = {2026},
 }
 ```
 
